@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "hassen-front",
+      "path": "../hassen-front"
+    },
+    {
+      "name": "hassen",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "vsicons.presets.angular": false,
+    "vsicons.presets.nestjs": true,
+    "vsicons.presets.jsOfficial": false,
+    "vsicons.presets.jsonOfficial": false,
+    "vsicons.presets.tsOfficial": false,
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.iconTheme": "vscode-icons"
+  }
+}
